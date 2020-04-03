@@ -1,0 +1,10 @@
+{
+  "name": "Tutorial bot",
+  "version": "1.0.0",
+  "description": "Dit is een tutorial bot",
+  "main": "bot.js",
+  "author": "Kerim Popelier",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
