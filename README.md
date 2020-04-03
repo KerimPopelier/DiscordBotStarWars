@@ -1,0 +1,2 @@
+# DiscordBotStarWars
+Trail discord bot
